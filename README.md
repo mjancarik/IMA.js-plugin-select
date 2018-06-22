@@ -1,5 +1,7 @@
 # ima-plugin-select
 
+## Package was moved to [plugins monorepo](https://github.com/seznam/IMA.js-plugins).
+
 The [IMA](https://imajs.io) plugin selects extra props from page state to your component.
 It uses [HOC](https://reactjs.org/docs/higher-order-components.html) at the background.
 It can be very useful for example some analytical data.
